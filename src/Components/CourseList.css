@@ -1,0 +1,17 @@
+.list{
+    display:flex;
+    flex-direction: column;
+}
+.list-item{
+    list-style: none;
+    margin:1rem;
+    margin-left: 20vw;
+    margin-right:20vw;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    color:white;
+    background-color: brown;
+    font-size: 1.3rem;
+    text-align: left;
+    min-width: 10rem;
+}
