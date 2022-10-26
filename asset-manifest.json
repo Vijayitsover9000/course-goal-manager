@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course-goal-manager/static/css/main.3a065013.css",
+    "main.js": "/course-goal-manager/static/js/main.0d9fc67c.js",
+    "index.html": "/course-goal-manager/index.html",
+    "main.3a065013.css.map": "/course-goal-manager/static/css/main.3a065013.css.map",
+    "main.0d9fc67c.js.map": "/course-goal-manager/static/js/main.0d9fc67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a065013.css",
+    "static/js/main.0d9fc67c.js"
+  ]
+}
